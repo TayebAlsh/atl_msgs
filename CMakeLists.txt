@@ -23,6 +23,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/ServosFeedback.msg"
   "msg/Depth.msg"
   "msg/Leak.msg"
+  "msg/PingData.msg"
   
   DEPENDENCIES
   std_msgs
